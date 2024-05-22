@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bef43f9-afb3-4221-ba22-efb73870e0fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Evento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/TipoIngresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Categoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosCadastroEvento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ingresso/DadosCadastroIngresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroTipoIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ingresso/DadosCadastroTipoIngresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/DadosCadastroUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/DadosCadastroVenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosEndereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosEndereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosEvento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosTipoIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/DadosTipoIngresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/DadosUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/DadosVenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Definicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/Definicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/Evento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/EventoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/EventoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/EventoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Formato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/Setor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Ingresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/Ingresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Tipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/Tipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/TipoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/TipoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/TratadorDeErros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/TratadorDeErros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/usuario/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/usuario/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/UsuarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/ValidacaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ValidacaoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/venda/Venda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/VendaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/venda/VendaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/VendaService.java" afterDir="false" />
-    </list>
+    <list default="true" id="9bef43f9-afb3-4221-ba22-efb73870e0fa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.CodechellaApplication.executor": "Run",
     "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "feature/refator-setor",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/lucaslima/Documentos/Generics/codechella_v2/pom.xml",
     "node.js.detected.package.eslint": "true",
@@ -126,6 +86,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="codechella_v2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="codechella_v2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodechellaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="codechella_v2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.gitlucaslima.CodechellaApplication" />
