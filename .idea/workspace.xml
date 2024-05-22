@@ -5,22 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bef43f9-afb3-4221-ba22-efb73870e0fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/TipoIngresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/evento/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosCadastroEvento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ingresso/DadosCadastroIngresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroTipoIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ingresso/DadosCadastroTipoIngresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/DadosCadastroUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosCadastroVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/DadosCadastroVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosEndereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosEndereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/DadosEvento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosTipoIngresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/DadosTipoIngresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/DadosUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/DadosVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/DadosVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Definicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/Definicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/Evento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/EventoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/evento/EventoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/EventoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/evento/EventoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Formato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/domain/ingresso/Setor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Ingresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/Ingresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Tipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/Tipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/TipoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/ingresso/TipoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/TratadorDeErros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/TratadorDeErros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/usuario/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/usuario/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/usuario/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/ValidacaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/ValidacaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/venda/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/VendaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/infra/venda/VendaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/VendaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gitlucaslima/application/venda/VendaService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gitlucaslima&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gitlucaslima/codechella.git&quot;,
+    &quot;accountId&quot;: &quot;f9a2995f-a82f-4e39-afa2-a66ab4fa525f&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gmPI6MYya9gxvyAMcyGJDT7IAK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,13 +94,57 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.CodechellaApplication.executor": "Run",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "feature/refator-setor",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lucaslima/Documentos/Generics/codechella_v2/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.gitlucaslima.domain.ingresso" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/gitlucaslima" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CodechellaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="codechella_v2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.gitlucaslima.CodechellaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gitlucaslima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CodechellaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,7 +161,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716299699479</updated>
-      <workItem from="1716299700622" duration="1000" />
+      <workItem from="1716299700622" duration="2298000" />
+      <workItem from="1716302005742" duration="46000" />
+      <workItem from="1716302074296" duration="3734000" />
     </task>
     <servers />
   </component>
